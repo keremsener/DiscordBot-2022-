@@ -1,0 +1,30 @@
+{
+  "//1": "Bu altyapı TheMechanic's Suncusuna Özel Yapılmıştır",
+  "//2": "Eğer Çalınırsa LİCENCE.md Telif Hakkı Girecektir",
+  "//3": "Eğer Bot Yapımında Yeni İseniz README.md Kısmını Okumanızı Şiddetle Tavsiye Ederim !",
+  "name": "-asdf",
+  "version": "0.0.1",
+  "description": "Kim Demiş ki bot yapmak o kadar zor :D?",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aoi.js": "^4.0.1",
+    "express": "^4.17.1",
+    "ms": "^2.1.3",
+    "top.gg": "^2.3.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
